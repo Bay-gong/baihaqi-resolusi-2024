@@ -1,0 +1,7 @@
+RENCANA PROJECT BAIHAQI
+
+- Membuat website portofolio yang keren
+  * menggunakan bootstrap
+  * menggunakan materialize
+- Membuat website usaha
+- Membuat website layanan jasa
