@@ -5,7 +5,6 @@ RENCANA PROJECT BAIHAQI
     ^ Parallax
     ^ Jumbotron
   * menggunakan materialize
-- Membuat komik strip sendiri
 - Membuat website usaha
   ^ Algoritma
 - Membuat website layanan jasa
