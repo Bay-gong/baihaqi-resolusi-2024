@@ -2,9 +2,10 @@ RENCANA PROJECT BAIHAQI
 
 - Membuat website portofolio yang keren
   * menggunakan bootstrap
-    ^ Navbar
-    ^ Footer
+    ^ Parallax
+    ^ Jumbotron
   * menggunakan materialize
 - Membuat website usaha
   ^ Algoritma
 - Membuat website layanan jasa
+- Membuat website company profile
